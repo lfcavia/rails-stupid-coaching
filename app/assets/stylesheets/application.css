@@ -13,3 +13,11 @@
  *= require_tree .
  *= require_self
  */
+
+ p {
+  color: black;
+ }
+
+ .blockquote {
+  background-color: black;
+ }
